@@ -2,4 +2,4 @@
 
 Primeiro trabalho da oficina de React
 
-Alteração online
+Alteração online, mudança no VSCode
