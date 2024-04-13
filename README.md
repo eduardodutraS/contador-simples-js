@@ -8,3 +8,4 @@ Nova alteração local
 Nova alteração online
 
 Ultima alteração online
+Última alteração local
